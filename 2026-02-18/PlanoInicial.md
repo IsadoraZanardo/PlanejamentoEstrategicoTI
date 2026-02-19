@@ -4,7 +4,7 @@
 ### 🔗 1. Contexto Geral
 A Disney é uma empresa norte-americana, atualmente multinacional, fundada em 1923 por Walt Disney.
 É focada em plataformas de streaming, filmes, rádio, espetáculos, música e parques de diversões ao redor do mundo.
-<br><br><br>
+<br><br>
 
 ### 👀 2. Visão
 "Ser a empresa mais admirada do mundo pela integridade de seus membros, por nossas ações enquanto cidadãos e pela qualidade das experiências únicas de entretenimento que oferecemos."
@@ -12,13 +12,13 @@ A Disney é uma empresa norte-americana, atualmente multinacional, fundada em 19
 ### 🏹 3. Missão
 "Conduzir nossos negócios e criar produtos de maneira ética, além de fomentar a felicidade e bem-estar das crianças e famílias, inspirando-as a se juntarem a nós na construção de um futuro melhor."
 
-### 💸 4. Valores
+### 🤑 4. Valores
 - Natureza
 - Comunidade
 - Vida Sudável
 - Comunidade e Inovação
 - Marketing, publicidade e conteúdo responsável
-<br><br><br>
+<br><br>
 
 ### 🧩 5.1. Decisão de Processos Internos
 Forte transformação digital e integração de sistemas, adotando diferentes tipos de plataformas tecnológicas com diversas áreas de atuação.
@@ -35,7 +35,7 @@ A combinação entre tecnologia, marca consolidada e portfólio diversificado é
 ### 💡 5.3. Objetivos Estratégicos
 Os objetivos estratégicos da Disney estão alinhados à expansão global, inovação tecnológica e liderança no mercado de entretenimento.
 Alguns dos principais objetivos estratégicos são: expandir sua presença digital, fortalecer a experiência do cliente, maximizar receitas globais e investir em inovação tecnológica e consolidar marcas e franquias.
-<br><br><br>
+<br><br>
 
 Bibliografia <br>
 https://www.disney.com.br/
